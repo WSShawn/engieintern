@@ -303,7 +303,7 @@ pydub==0.25.1
 pyemd==0.5.1
 pyerfa==2.0.0.1
 Pygments==2.6.1
-libgirepository1.0-dev
+libwinmedia
 PyGObject
 pylev==1.4.0
 pymc==4.1.4
