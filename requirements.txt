@@ -2,7 +2,6 @@
 azure-cognitiveservices-vision-face==0.6.0
 azure-common==1.1.28
 azure-core==1.26.1
-os-sys
 requests
 Flask==1.1.4
 google==2.0.3
